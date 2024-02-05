@@ -1,6 +1,7 @@
 # **Random-Quote-Generator**
 
-![Advice Generator](./public/Screenshot(1).png)
+![Advice Generator]
+
 
 ## **Introduction**
 
